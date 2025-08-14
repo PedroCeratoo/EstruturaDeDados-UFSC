@@ -25,6 +25,8 @@ public class ListaSequenciaisTeste {
 
         listaVetoresTeste.insere(22);
         listaVetoresTeste.insere(44);
+        listaVetoresTeste.insere(17);
+        listaVetoresTeste.insere(8);
 
         listaVetoresTeste.imprime();
 
