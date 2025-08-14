@@ -9,7 +9,7 @@
     }
 
 <img src="i<img width="1413" height="378" alt="image" src="https://github.com/user-attachments/assets/73cf1241-e037-4e31-b8ce-e74d608b5c31" />
-" alt="Descrição" width="300">
+" alt="ss" width="300">
 
     void insere(int valor) {
 
