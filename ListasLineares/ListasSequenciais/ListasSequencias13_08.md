@@ -18,9 +18,7 @@
              dados[quantidade] = valor;
              quantidade++;
     }
-<img src="i<img width="1413" height="378" alt="image" src="<img width="1151" height="262" alt="image" src="https://github.com/user-attachments/assets/23a74467-3e6b-428c-8766-435fd6df7ed6" />
-" />
-" alt="Descrição" width="300">
+![Método Insere](https://github.com/user-attachments/assets/23a74467-3e6b-428c-8766-435fd6df7ed6)
 
 
         Integer removeFinal() {
@@ -39,11 +37,7 @@
     }
 }
 
-<img src="i<img width="1413" height="378" alt="image" src="<img width="1151" height="262" alt="image" src="<img width="1553" height="488" alt="image" src="https://github.com/user-attachments/assets/d6a66f87-c605-4768-b193-8ad992611c47" />
-" />
-" />
-" alt="Descrição" width="300">
-
+![Método removeFinal](https://github.com/user-attachments/assets/d6a66f87-c605-4768-b193-8ad992611c47)
 
     Integer removePosicao(int posicao) {
          if (posicao < 0 || posicao >= quantidade) {
@@ -60,8 +54,8 @@
          }
     }
 
-<img src="i<img width="1413" height="378" alt="image" src="<img width="1151" height="262" alt="image" src="<img width="1553" height="488" alt="image" src="<img width="1505" height="535" alt="image" src="https://github.com/user-attachments/assets/847dfebb-4d88-4960-b4ca-3830301ddb12" />
-" />
+![Método removePosicao](https://github.com/user-attachments/assets/847dfebb-4d88-4960-b4ca-3830301ddb12)
+
 
     void resize(int max) {
          Integer temp[] = new Integer[max];
@@ -71,23 +65,16 @@
          }
     }
 
+![Método resize](https://github.com/user-attachments/assets/4ee1cd85-00e8-483e-be52-1d63e873ccc7)
 
-<img src="i<img width="1413" height="378" alt="image" src="<img width="1151" height="262" alt="image" src="<img width="1553" height="488" alt="image" src="<img width="1505" height="535" alt="image" src="<img width="1236" height="240" alt="image" src="https://github.com/user-attachments/assets/4ee1cd85-00e8-483e-be52-1d63e873ccc7" />
-" />
-" />
 
-          void imprime() {
-          System.out.println("tamanho: " + dados.length);
+        void imprime() {
+        System.out.println("tamanho: " + dados.length);
         for (int i = 0; i < quantidade; i++) {
             System.out.print(dados[i] + " -> ");
         }
         System.out.println();
     }
 
-
-<img src="i<img width="1413" height="378" alt="image" src="<img width="1151" height="262" alt="image" src="<img width="1553" height="488" alt="image" src="<img width="1505" height="535" alt="image" src="<img width="1236" height="240" alt="image" src="<img width="1167" height="351" alt="image" src="https://github.com/user-attachments/assets/63f0f2cf-0047-451b-b41a-c4cd5a6b5344" />
-" />
-" />
-" />
-
+![Método imprime](https://github.com/user-attachments/assets/63f0f2cf-0047-451b-b41a-c4cd5a6b5344)
 
