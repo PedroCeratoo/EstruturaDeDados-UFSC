@@ -19,6 +19,8 @@
              quantidade++;
     }
 ![Método Insere](https://github.com/user-attachments/assets/23a74467-3e6b-428c-8766-435fd6df7ed6)
+<img width="829" height="422" alt="image" src="https://github.com/user-attachments/assets/82e65fac-2198-48c3-b82f-adbd5b82975a" />
+
 
 
         Integer removeFinal() {
@@ -38,6 +40,8 @@
 }
 
 ![Método removeFinal](https://github.com/user-attachments/assets/d6a66f87-c605-4768-b193-8ad992611c47)
+<img width="874" height="390" alt="image" src="https://github.com/user-attachments/assets/33a0cc17-81eb-44b6-b96f-fd3d0ebb285f" />
+
 
     Integer removePosicao(int posicao) {
          if (posicao < 0 || posicao >= quantidade) {
@@ -55,6 +59,8 @@
     }
 
 ![Método removePosicao](https://github.com/user-attachments/assets/847dfebb-4d88-4960-b4ca-3830301ddb12)
+<img width="849" height="622" alt="image" src="https://github.com/user-attachments/assets/cfc0bdf8-bdad-49ef-aff4-0c60da58d804" />
+
 
 
     void resize(int max) {
@@ -66,6 +72,8 @@
     }
 
 ![Método resize](https://github.com/user-attachments/assets/d855d0b0-4bde-4213-8278-7c2d55ca13f2)
+<img width="475" height="640" alt="image" src="https://github.com/user-attachments/assets/26cb8f42-a4d9-4d59-ae77-bf7567a2dd06" />
+
 
 
         void imprime() {
